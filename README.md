@@ -1,5 +1,5 @@
 
-# public scripts they are not official do not ask for support
+# Public scripts they are not official do not ask for support
 # Visitor Count
   <img src="https://profile-counter.glitch.me/VORP-Premade-server/count.svg" />
 
